@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "wenhan-sonarcloud",
+        "projectKey": "wenhan-sqc-org_linux-cmake-gcovr-gh-actions-sc"
+    }
+}
